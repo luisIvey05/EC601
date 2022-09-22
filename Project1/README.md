@@ -25,14 +25,14 @@ NeRFusion [10] extends the successful NeRF approach (an architecture that uses f
 In conclusion, photogrammetry has shown promising results in archeological preservation, 3D object modeling in video games, and autonmous vehicles using classical model-driven and data-driven state-of-the-art approaches. In researching photogrammetries methods of 3D representation many benifits and constraints come with the two different approaches. In future research, it would be intersting combine both techniques to deliver and more robust but real-time solution to many applications that currently use photogrammetry.
 
 ## References
-[1] Aber, J. S., Marzolff, I., & Ries, J. B. (2010, May 14). _Photogrammetry_. Small-Format Aerial Photography.
-[2] Zaffos, J. (n.d.). _Why the Earth Must Be Mapped_. Anthropology and geography.
-[3] Rochefort, S. de. (2021, November 24). _Assassin's creed unity can't help rebuild Notre-Dame, and that's OK_. Polygon.
-[4] Hossan, Md, et al. "A new vehicle localization scheme based on combined optical camera communication and photogrammetry." _Mobile Information Systems_ 2018 (2018).
-[5] Guo, Yulan, et al. "Deep learning for 3d point clouds: A survey." _IEEE transactions on pattern analysis and machine intelligence_ 43.12 (2020): 4338-4364.
-[6] Zhou, Qian-Yi, Jaesik Park, and Vladlen Koltun. "Open3D: A modern library for 3D data processing." arXiv preprint arXiv:1801.09847 (2018).
-[7] Y. Ben-Shabat, M. Lindenbaum, and A. Fischer, “3D point cloud classification and segmentation using 3D modified fisher vector representation for convolutional neural networks,” 2017, arXiv: 1711.08241.
-[8] J. Yang et al., “Modeling point clouds with self-attention and gumbel subset sampling,” in Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit., 2019, pp. 3318–3327.
-[9] S. Lan, R. Yu, G. Yu, and L. S. Davis, “Modeling local geo-metric structure of 3D point clouds using Geo-CNN,” in Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit.,2019, pp. 998–1008.
-[10] Zhang, Xiaoshuai, et al. "NeRFusion: Fusing Radiance Fields for Large-Scale Scene Reconstruction." _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition_. 2022.
+[1] Aber, J. S., Marzolff, I., & Ries, J. B. (2010, May 14). _Photogrammetry_. Small-Format Aerial Photography.<br />
+[2] Zaffos, J. (n.d.). _Why the Earth Must Be Mapped_. Anthropology and geography.<br />
+[3] Rochefort, S. de. (2021, November 24). _Assassin's creed unity can't help rebuild Notre-Dame, and that's OK_. Polygon.<br />
+[4] Hossan, Md, et al. "A new vehicle localization scheme based on combined optical camera communication and photogrammetry." _Mobile Information Systems_ 2018 (2018).<br />
+[5] Guo, Yulan, et al. "Deep learning for 3d point clouds: A survey." _IEEE transactions on pattern analysis and machine intelligence_ 43.12 (2020): 4338-4364.<br />
+[6] Zhou, Qian-Yi, Jaesik Park, and Vladlen Koltun. "Open3D: A modern library for 3D data processing." arXiv preprint arXiv:1801.09847 (2018).<br />
+[7] Y. Ben-Shabat, M. Lindenbaum, and A. Fischer, “3D point cloud classification and segmentation using 3D modified fisher vector representation for convolutional neural networks,” 2017, arXiv: 1711.08241.<br />
+[8] J. Yang et al., “Modeling point clouds with self-attention and gumbel subset sampling,” in Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit., 2019, pp. 3318–3327.<br />
+[9] S. Lan, R. Yu, G. Yu, and L. S. Davis, “Modeling local geo-metric structure of 3D point clouds using Geo-CNN,” in Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit.,2019, pp. 998–1008.<br />
+[10] Zhang, Xiaoshuai, et al. "NeRFusion: Fusing Radiance Fields for Large-Scale Scene Reconstruction." _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition_. 2022.<br />
 
