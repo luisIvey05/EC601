@@ -5,7 +5,7 @@ Photogrammetry is the art, science, and technology of data acquisition of real-w
 
 Photogrammetry is revolutionizing archaeology by replacing archaic and slow site mapping methods with faster and newer technologies. The transition to photogrammetry techniques has come at a crucial time where recent weather patterns, rising sea levels, and frequently occurring wildfires have induced the disappearance of ancient ruins[2]. These techniques can easily measure the Earth's surface with highly accurate point clouds that can be used to generate a 3D reconstruction of the terrain.
 ![](https://sites.temple.edu/tudsc/files/2015/10/Screen-Shot-2015-10-14-at-11.44.35-AM.png)
-> **Fig 1** Photoscan model of Palmyra’s Tetrapylon 
+> **Fig 1** Photoscan model of Palmyra’s Tetrapylon. 
 
 Due to recent photogrammetry's high-resolution 3D object modeling techniques, many realistic computer games have introduced these models into their virtual environments. The Assassin's Creed series has frequently used photogrammetry to speed production time when creating in-game ancient artifacts and famous landmarks [3]. For example, Assassin's Creed Unity had fully restored the damaged Notre Dame cathedral, which players could experience in-game.
 ![](https://i.guim.co.uk/img/media/d6dec9475aff1a117081a20a25ea67ba98248cff/0_126_3989_2394/master/3989.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=e78ebb13265d96fb7e028c80d27dfdec)
@@ -13,7 +13,7 @@ Due to recent photogrammetry's high-resolution 3D object modeling techniques, ma
 
 Another application of photogrammetry is the use of real-time applications such as localization for autonomous vehicles. Localization is the process of finding objects in space and time relative to other objects [4]. More specifically, the distance between an autonomous vehicle to a vehicle in front of it is calculated based on a photogrammetry scheme. Photogrammetry can also be extended for 3D object detection, tracking, and segmentation in autonomous vehicle applications [5]. 
 ![](https://www.anolytics.ai/wp-content/uploads/2019/06/bg-1024x586.jpg)
-> **Fig 3** 3D point cloud for Autonmous Vehicles
+> **Fig 3** 3D point cloud for Autonmous Vehicles.
 
 ## Current Research
 ### Model-Driven/Classical Approach:
@@ -21,7 +21,7 @@ A model-driven/classical approach aims to use a multiview stereo vision procedur
 
 Open3D scene reconstruction system takes in RGB-D images and follows three crucial steps to output a mesh model of the scene. The first step builds the geometric surfaces using a few sequenced images. The second step consists of globally aliging fragments to obtain fragment poses and runs a camera calibration function. The final step outputs a mesh model of the scene by integrating the RGB-D images. Open3D also produces the visualization of the mesh model. The pipeline for scene reconstruction has been optimized by using C++ as the backend programming language and OpenMP to parallelize many subtasks. However, the need for multiple images and the process of calibrating the camera being used has led to research in producing data-driven approaches for acquiring 3D point clouds from a single image.
 ![](https://raw.githubusercontent.com/isl-org/Open3D-ML/master/docs/images/getting_started_ml_visualizer.gif)
-> ** Fig 4 ** Open3D scene reconstruction
+> ** Fig 4 ** Open3D scene reconstruction.
 
   ### Data-Driven/Current State-Of-The-Art Approaches:
   
@@ -29,7 +29,7 @@ Data-driven/current end-to-end training approaches consist of three different co
 
 NeRFusion [10] extends the successful NeRF approach (an architecture that uses fully-connected networks to render the continuous volumetric scene using camera rays) for large-scale scene rendering. NeRFusion proposes an input image sequence to predict local radiance fields using direct network inference and globally acquires the scene reconstruction with recurrent neural networks. The result is a real-time sparse scene representation at 22 fps.
 ![](https://cseweb.ucsd.edu/~zex014/papers/2022_nerfusion/icon.png)
-> ** Fig 5 ** NeRFusion scene reconstruction
+> ** Fig 5 ** NeRFusion scene reconstruction.
 
 ## Conclusion
 In conclusion, photogrammetry has shown promising results in archeological preservation, 3D object modeling in video games, and autonmous vehicles using classical model-driven and data-driven state-of-the-art approaches. In researching photogrammetries methods of 3D representation many benifits and constraints come with the two different approaches. In future research, it would be intersting combine both techniques to deliver and more robust but real-time solution to many applications that currently use photogrammetry.
