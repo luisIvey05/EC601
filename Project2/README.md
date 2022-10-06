@@ -1,6 +1,6 @@
 # Phase 1(a):   Twitter APIs
 
-Phase 1(a) aims to write a program as an exercise to learn the different Twitter API commands available for developers. Phase 1(b) demonstrates the use of Botometer (checks the activity of a Twitter account to see if it's a bot or not) API calls.
+Phase 1(a) aims to write a program as an exercise to learn the different Twitter API commands available for developers. The second part of Phase 1(a) demonstrates the use of Botometer (checks the activity of a Twitter account to see if it's a bot or not) API calls.
 
 The following are some examples of Twitter's API calls:
 
