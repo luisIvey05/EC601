@@ -60,7 +60,7 @@ Unfortunately, Botometer does not currently work with Essential access endpoints
 
 
 # Phase 1(b)
-Phase 1(b) is meant to try different google NLP sentiment anaylisys APIs.
+Phase 1(b) of the project is an exercise on google's NLP sentiment analysis APIs.
 
 The following is an example on how I used Google NLP Senitment Analysis.
 
